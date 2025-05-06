@@ -58,10 +58,10 @@ Python 3.6+
 
 4. **Install Requirements**
 
-   - Install all the requirements given in **[requirements.txt](https://github.com/kishanrajput23/Jarvis-Desktop-Voice-Assistant/blob/main/requirements.txt)** by running the command `pip install -r requirements.txt`
+   - Install all the requirements given in **[requirements.txt](https://github.com/kapadiya-devanshi/python-project.git)** by running the command `pip install -r requirements.txt`
 
 5. **Install PyAudio**  
-   - Follow the instructions given **[here](https://stackoverflow.com/questions/52283840/i-cant-install-pyaudio-on-windows-how-to-solve-error-microsoft-visual-c-14)**
+   - Follow the instructions given **[here](https://github.com/kapadiya-devanshi/python-project.git)**
 
 6. **Run the Assistant**
   - Run the main script:
